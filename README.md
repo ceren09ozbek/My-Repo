@@ -1,2 +1,1 @@
-# My-Repo
-Trial
+Ceren Özbek Digital Image Processing
